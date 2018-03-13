@@ -1,18 +1,13 @@
 {
-  "main.css": "static/css/main.88f4b767.css",
-  "main.css.map": "static/css/main.88f4b767.css.map",
-  "main.js": "static/js/main.283d12b2.js",
-  "main.js.map": "static/js/main.283d12b2.js.map",
-  "static/media/csvQsortsFile.png": "static/media/csvQsortsFile.7fb6a278.png",
-  "static/media/excelType1.png": "static/media/excelType1.257ebb26.png",
-  "static/media/excelType2.png": "static/media/excelType2.92104c95.png",
+  "main.css": "static/css/main.b734cd79.css",
+  "main.css.map": "static/css/main.b734cd79.css.map",
+  "main.js": "static/js/main.03fc6742.js",
+  "main.js.map": "static/js/main.03fc6742.js.map",
   "static/media/firefox.png": "static/media/firefox.5ed7b862.png",
   "static/media/flags.png": "static/media/flags.9c74e172.png",
   "static/media/icons.eot": "static/media/icons.674f50d2.eot",
   "static/media/icons.svg": "static/media/icons.912ec66d.svg",
   "static/media/icons.ttf": "static/media/icons.b06871f2.ttf",
   "static/media/icons.woff": "static/media/icons.fee66e71.woff",
-  "static/media/icons.woff2": "static/media/icons.af7ae505.woff2",
-  "static/media/lipsetDataImage1.png": "static/media/lipsetDataImage1.354551e2.png",
-  "static/media/pqmethodStatementsImage.png": "static/media/pqmethodStatementsImage.d6830dcc.png"
+  "static/media/icons.woff2": "static/media/icons.af7ae505.woff2"
 }
